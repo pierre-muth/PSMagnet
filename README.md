@@ -1,2 +1,3 @@
 # PSMagnet
-small scale of cern PS main magnet
+Small scale of cern PS main magnet
+![3D_Printed](IMG_6545l.jpg)
